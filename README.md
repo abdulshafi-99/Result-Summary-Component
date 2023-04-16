@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/abdulshafi-99/result-summary-component-main)
-- Live Site URL: [Add live site URL here](https://abdulshafi-99.github.io/result-summary-component-main/)
+- Solution URL: [Add solution URL here](https://github.com/abdulshafi-99/result-summary-component)
+- Live Site URL: [Add live site URL here](https://abdulshafi-99.github.io/result-summary-component/)
 
 ## My process
 I started first by looking at the design and coding the HTML structure for the component, than moved to CSS started with adding custom properites and creating the layout using grid and adding the styles to elements
